@@ -1,0 +1,25 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+
+<Advertisements>
+
+	<Ad>
+		<ImageUrl>isr.png</ImageUrl>
+		<NavigateUrl>https://www.isro.gov.in</NavigateUrl>
+		<AlternateText>isro official</AlternateText>
+	
+	</Ad>
+
+	<Ad>
+		<ImageUrl>microsoft-logo.png</ImageUrl>
+		<NavigateUrl>http://www.microsoft.com</NavigateUrl>
+		<AlternateText>Microsoft Windows</AlternateText>
+	
+	</Ad>
+
+	<Ad>
+		<ImageUrl>GitHub-logo.jpeg</ImageUrl>
+		<NavigateUrl>http://www.github.com</NavigateUrl>
+		<AlternateText>Github</AlternateText>
+	
+	</Ad>
+</Advertisements>
