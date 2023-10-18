@@ -1,1 +1,1 @@
-# ADrotator
+# ONLY For EDucation Purpose
